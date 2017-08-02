@@ -1,0 +1,30 @@
+[27-Feb-2017 09:29:06 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not find resource 'js/zepto.min.js' in any resource paths.(searched: /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/../Resources)' in /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php:500
+Stack trace:
+#0 /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(122): Whoops\Handler\PrettyPageHandler->getResource('js/zepto.min.js')
+#1 /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Run.php(256): Whoops\Handler\PrettyPageHandler->handle(Object(RuntimeException))
+#2 /home/mindagbr/public_html/apps/local/vendor/laravel/framework/src/Illuminate/Exception/WhoopsDisplayer.php(49): Whoops\Run->handleException(Object(RuntimeException))
+#3 /home/mindagbr/public_html/apps/local/vendor/laravel/framework/src/Illuminate/Exception/Handler.php(289): Illuminate\Exception\WhoopsDisplayer->display(Object(RuntimeException))
+#4 /home/mind in /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php on line 500
+[27-Feb-2017 09:34:54 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not find resource 'js/zepto.min.js' in any resource paths.(searched: /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/../Resources)' in /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php:500
+Stack trace:
+#0 /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(122): Whoops\Handler\PrettyPageHandler->getResource('js/zepto.min.js')
+#1 /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Run.php(256): Whoops\Handler\PrettyPageHandler->handle(Object(RuntimeException))
+#2 /home/mindagbr/public_html/apps/local/vendor/laravel/framework/src/Illuminate/Exception/WhoopsDisplayer.php(49): Whoops\Run->handleException(Object(RuntimeException))
+#3 /home/mindagbr/public_html/apps/local/vendor/laravel/framework/src/Illuminate/Exception/Handler.php(289): Illuminate\Exception\WhoopsDisplayer->display(Object(RuntimeException))
+#4 /home/mind in /home/mindagbr/public_html/apps/local/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php on line 500
+[28-Feb-2017 12:15:34 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 2112
+[01-Mar-2017 12:37:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mindagbr/public_html/apps/local/app/routes.php on line 115
+[01-Mar-2017 12:37:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mindagbr/public_html/apps/local/app/routes.php on line 115
+[02-Mar-2017 10:36:44 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1799
+[04-Mar-2017 14:02:51 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 14:03:24 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 14:09:17 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 14:13:54 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 14:14:18 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 17:31:06 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 17:31:14 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[04-Mar-2017 18:22:37 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1106
+[06-Mar-2017 09:01:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 2294
+[06-Mar-2017 09:12:57 UTC] PHP Fatal error:  Call to a member function isEmpty() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1637
+[06-Mar-2017 09:13:29 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1637
+[06-Mar-2017 09:20:05 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/mindagbr/public_html/apps/local/app/controllers/ApiController.php on line 1099

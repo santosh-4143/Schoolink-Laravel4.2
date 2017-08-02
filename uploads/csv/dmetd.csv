@@ -1,0 +1,3 @@
+code,fname,mname,lname,classes_id,section_id,roll_no,email,address,phone,religion,parent_code
+S001,Rahul,Sharma,,1,1,3,rahul@gmail.com,kolkata,8100011661,Hindu,P001
+S002,Neha,Mishra,,1,2,3,neha@gmail.com,kolkata,8100011661,Hindu,P002
